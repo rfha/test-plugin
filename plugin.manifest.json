@@ -1,0 +1,5 @@
+{
+  "kind": "test-plugin",
+  "apiVersion": 1,
+  "name": "Hello Test Plugin"
+}
